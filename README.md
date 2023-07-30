@@ -2,7 +2,9 @@
 
 ### Case: Criação de Chat de bate-papo
 
-Um cliente contratou um serviço solicitando um chat de bate-papo onde, apenas usuários conectados a mesma rede poderiam usar e que as mensagem sumissem cada vez que o site fosse fechado ou atualizado.
+Um cliente contratou um serviço solicitando um chat de bate-papo com as seguintes exigências: 
+- Apenas usuários conectados na mesma rede IPV4 poderiam ter acesso
+- Todas as mensagens devem ser temporárias, ao atualizar o site elas desaparecem
 
 <hr>
 
@@ -40,3 +42,7 @@ Um cliente contratou um serviço solicitando um chat de bate-papo onde, apenas u
 
 ### Resultado ✅
   
+
+
+https://github.com/nayara-lucia/python-dev/assets/126920974/dcdff482-2754-44c1-82f3-937d6b8baa4a
+
