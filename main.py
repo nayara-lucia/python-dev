@@ -18,4 +18,4 @@ def conversa(mensagem): # Recebe como parametro uma mensagem
 
 
 # Roda a aplicação
-socketio.run(app, host="192.168.15.13")
+socketio.run(app, host="xx.168.xx.xx")
